@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "64d8aaa5-7631-4b4a-8c58-f9efb7e638b8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "if_street-food-shop-noodle-vender_3558095": {
+      "ver": "1.0.3",
+      "uuid": "b4a07b5d-cffd-4144-a32d-e30e4254b426",
+      "rawTextureUuid": "64d8aaa5-7631-4b4a-8c58-f9efb7e638b8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 124,
+      "height": 124,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

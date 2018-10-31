@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "43bbf1ba-5457-4d2f-b769-f1368b870753",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "if_ice-cream-cup-sweets-frozen_3558107": {
+      "ver": "1.0.3",
+      "uuid": "de6ad5e4-4e10-46f7-bdec-87bb9daf1095",
+      "rawTextureUuid": "43bbf1ba-5457-4d2f-b769-f1368b870753",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 26,
+      "trimY": 2,
+      "width": 76,
+      "height": 124,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "89b3aa13-560a-4ba3-bb13-d1380a94a633",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "if_noodles-bowl-food-ramen-soup_3558103": {
+      "ver": "1.0.3",
+      "uuid": "b3442024-6ff4-42ae-bf25-c0d471b2c618",
+      "rawTextureUuid": "89b3aa13-560a-4ba3-bb13-d1380a94a633",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 124,
+      "height": 124,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

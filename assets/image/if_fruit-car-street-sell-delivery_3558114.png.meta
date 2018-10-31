@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5a705278-5119-488d-842b-6088f56e7666",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "if_fruit-car-street-sell-delivery_3558114": {
+      "ver": "1.0.3",
+      "uuid": "5607a00b-0cf1-4fba-92b0-6714f571cb04",
+      "rawTextureUuid": "5a705278-5119-488d-842b-6088f56e7666",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 124,
+      "height": 124,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

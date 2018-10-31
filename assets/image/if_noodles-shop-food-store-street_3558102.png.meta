@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7c0d075d-fe8b-4832-a0dc-f8fa706a725d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "if_noodles-shop-food-store-street_3558102": {
+      "ver": "1.0.3",
+      "uuid": "cee3bf87-e060-454a-8d72-0425d3923968",
+      "rawTextureUuid": "7c0d075d-fe8b-4832-a0dc-f8fa706a725d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 124,
+      "height": 124,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ba2f1634-0ff4-451d-abc3-03289449c1db",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "if_sausage-burger-bread-breakfast-food_3558099": {
+      "ver": "1.0.3",
+      "uuid": "d8eca514-88ba-4f39-84d1-18d0f28538df",
+      "rawTextureUuid": "ba2f1634-0ff4-451d-abc3-03289449c1db",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 30,
+      "trimY": 2,
+      "width": 68,
+      "height": 124,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

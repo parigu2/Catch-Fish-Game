@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d9641b6e-6ff5-4c95-848e-bf24cb563b92",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "if_fried_rice_3377056": {
+      "ver": "1.0.3",
+      "uuid": "2bb4ae2e-6930-424a-bb14-ad795fd553e9",
+      "rawTextureUuid": "d9641b6e-6ff5-4c95-848e-bf24cb563b92",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": -1.5,
+      "trimX": 16,
+      "trimY": 9,
+      "width": 101,
+      "height": 113,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

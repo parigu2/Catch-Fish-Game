@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "dac1c47b-742a-4321-a9fd-f499c6c8fa25",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "if_Pokemon_Go-08_1320033": {
+      "ver": "1.0.3",
+      "uuid": "2b664006-d014-47d7-9cc4-f6de4f9666c2",
+      "rawTextureUuid": "dac1c47b-742a-4321-a9fd-f499c6c8fa25",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 24,
+      "trimY": 25,
+      "width": 80,
+      "height": 78,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
